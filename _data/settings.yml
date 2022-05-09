@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 犇富星球
 logo: 
-author: themefisher
+author: 犇富星球家族
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: metabull88@gmail.com
+phone: 
+address: 星球上
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 欢迎来到犇富星球
 
 social:
 - {icon: "ti-facebook", link: "#"}
