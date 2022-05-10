@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  获取钱包指南
-date:   2022-05-10 11:05:55 +0300
-image:  /assets/images/blog/post-5.jpg
+date:   2022-05-10
+image:  /assets/images/blog/post-2.jpg
 author: uixgeek
 tags:   UX design
 ---
